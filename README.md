@@ -5,7 +5,9 @@
 安装
 
 ```
-npm install seo-test
+git clone https://github.com/ccqgithub/seo-test.git seo-test
+cd seo-test
+npm install
 ```
 
 配置：配置文件放在`config`目录下
